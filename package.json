@@ -5,7 +5,8 @@
   "scripts": {
     "test": "jest --forceExit",
     "test:watch": "jest --forceExit --watchAll",
-    "test:cov": "jest --coverage --forceExit"
+    "test:cov": "jest --coverage --forceExit",
+    "test:rep": "http-server ./coverage/lcov-report/"
   },
   "keywords": [],
   "author": "",
