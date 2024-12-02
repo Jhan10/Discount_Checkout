@@ -1,0 +1,23 @@
+{
+  "name": "Discount_Checkout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit",
+    "test:watch": "jest --forceExit --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "Discount_Checkout": "file:",
+    "p_checkout": "file:",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
