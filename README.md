@@ -1,4 +1,4 @@
-### Discount_Checkout📜
+## Discount_Checkout📜
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Jhan10/Discount_Checkout?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Jhan10/Discount_Checkout?style=for-the-badge)
@@ -14,7 +14,7 @@ Projeto de testes de validação de `Preços` e `Descontos` aplicados. Validaç�
 >
 >Futuramente mais features serão adicionadas.
 
-## O projeto pode ser executado via os seguintes comandos:
+### O projeto pode ser executado via os seguintes comandos:
 
 Instala as dependencias do projeto:
 ```
