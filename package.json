@@ -12,7 +12,6 @@
   "description": "",
   "dependencies": {
     "Discount_Checkout": "file:",
-    "p_checkout": "file:",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
