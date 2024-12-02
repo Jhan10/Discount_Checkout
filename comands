@@ -1,6 +1,8 @@
 npm run test
 
 npm run test:watch
+
+jest --coverage --forceExit
 --------------------------------------------
 it()
 fit() //força executar somente esse, os outros são skipped
